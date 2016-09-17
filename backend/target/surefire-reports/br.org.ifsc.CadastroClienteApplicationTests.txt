@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.org.ifsc.CadastroClienteApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.515 sec - in br.org.ifsc.CadastroClienteApplicationTests

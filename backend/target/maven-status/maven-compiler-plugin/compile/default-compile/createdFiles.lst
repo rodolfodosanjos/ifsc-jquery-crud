@@ -1,0 +1,4 @@
+br\org\ifsc\CadastroClienteApplication.class
+br\org\ifsc\Cliente.class
+br\org\ifsc\ClienteController.class
+br\org\ifsc\ClienteRepository.class
